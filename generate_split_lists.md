@@ -1,0 +1,15 @@
+[castro] Total 400 samples
+  Split 82%: train=328, infer=72
+  Split 73%: train=292, infer=108
+  Split 64%: train=256, infer=144
+  Split 55%: train=220, infer=180
+[clover] Total 3000 samples
+  Split 82%: train=2460, infer=540
+  Split 73%: train=2190, infer=810
+  Split 64%: train=1920, infer=1080
+  Split 55%: train=1650, infer=1350
+[gadget] Total 1000 samples
+  Split 82%: train=820, infer=180
+  Split 73%: train=730, infer=270
+  Split 64%: train=640, infer=360
+  Split 55%: train=550, infer=450
