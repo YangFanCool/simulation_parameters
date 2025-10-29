@@ -12,13 +12,13 @@ def normalize(x, ref_min, ref_max):
 
 def suggest_k(dim):
     if dim <= 2:
-        return 8
+        return 4
     elif dim <= 4:
-        return 16
+        return 8
     elif dim <= 6:
-        return 32
+        return 16
     elif dim <= 8:
-        return 48
+        return 32
     else:
         return 64
 
