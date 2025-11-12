@@ -39,7 +39,8 @@ if __name__ == "__main__":
     # 例如：
     # castro 模拟参数定义
     param_specs = [
-        [0.80, 0.95, 20],   # MP
-        [0.80, 0.95, 20],   # MS
+        [0.0215, 0.0235, 10],
+        [0.1200, 0.1550, 10],
+        [0.5500, 0.8500, 10],
     ]
-    generate_params(param_specs, prefix="castro")
+    generate_params(param_specs, prefix="nyx")
