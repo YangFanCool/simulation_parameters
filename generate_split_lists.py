@@ -5,7 +5,7 @@ from sklearn.model_selection import train_test_split
 np.random.seed(42)
 
 # 数据集名称与划分比例
-DATASETS = ["castro", "clover", "nyx"]
+DATASETS = ["nyx"]
 SPLITS = [82, 73, 64, 55]
 
 def main():
